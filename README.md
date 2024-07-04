@@ -1,6 +1,6 @@
 # Stock Price Prediction using LSTM
 
-![Stock Prediction](stock.jpg)
+![Stock Prediction](stock.png)
 
 ## Project Overview
 
